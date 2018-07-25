@@ -1,4 +1,4 @@
-#Create Exchange Online Distribution Group in ADDS Environment - A Welsh 2018
+#Create Exchange Online Distribution Group in ADDS Environment - tinfoilcipher 2018
 Clear-Host
 
 #Modules
